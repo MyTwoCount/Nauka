@@ -1,1 +1,1 @@
-troche codu javascript
+data dnia troche codu javascript
