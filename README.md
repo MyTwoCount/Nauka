@@ -1,2 +1,3 @@
 wysy³amy kolejny commit
-hello close #1
+add documentation work in point 2
+hello close #2
