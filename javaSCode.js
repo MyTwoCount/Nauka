@@ -1,0 +1,1 @@
+troche codu javascript
