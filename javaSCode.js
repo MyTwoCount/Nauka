@@ -1,1 +1,0 @@
-data dnia troche codu javascript
